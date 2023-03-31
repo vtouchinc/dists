@@ -1,0 +1,30 @@
+Package: libvtouch-sensor
+Architecture: amd64
+Version: 1.0.0
+Maintainer: jichan Jeung
+Depends: libopencv-dev
+Filename: pool/Ubuntu/focal/libvtouch-sensor_amd64.deb
+Size: 2943448
+MD5sum: 767560e7bf01ce7effd245a1c33917b5
+SHA1: df694eef0c51ddfe717c9f5e7b0b8cb31c847403
+SHA256: 271aff50614bd7a37073f52dac18758c7cabf7d8e342ca43abc588e11ab36017
+SHA512: f928e1c2a70679a623888cf7671f7d16e015152d412d0fe28b1b09561aeaf96ab7a94dac46c3c7c5e6c5c9b347f19a104bff8fc8d0d9d9398fc7f316f26e094b
+Homepage: https://vtouch.io
+Description: vtouch essential library
+Name: <jhjung@vtouch.io>
+
+Package: libvtouch-dev
+Architecture: arm64
+Version: 1.0.0
+Maintainer: jichan Jeung
+Depends: libopencv-dev
+Filename: pool/Ubuntu/bionic/libvtouch-sensor_aarch64.deb
+Size: 79068
+MD5sum: 8d8ca5f7cb65c255b971471a404858dc
+SHA1: 36c82dc5d53dc57101f19c3f8c32b3664a419cac
+SHA256: fb9c807f56a64bb3cf9b6cd20476340fe9bf8266b332d1d33ae4ab95087fdeac
+SHA512: 52209c23c0bcc93078cf6cc04d5e1d7c1a27f759ea7e5bedeb28d17b36a13827a168bac244e957587fdf2fd3f663a043ca61ec794ee96bce3c5e0c757f3e4053
+Homepage: https://vtouch.io
+Description: vtouch essential library
+Name: <jhjung@vtouch.io>
+
