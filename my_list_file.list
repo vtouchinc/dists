@@ -1,1 +1,0 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/vtouch.gpg] https://vtouchinc.github.io/dists ./
