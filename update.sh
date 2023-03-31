@@ -23,5 +23,6 @@ KEYNAME="dev@vtouch.io"
 apt-ftparchive packages . > Packages
 gzip -k -f Packages
 apt-ftparchive release . > Release
+rm -rf Release.gpg InRelease
 gpg --default-key ${KEYNAME} -abs -o Release.gpg Release
 gpg --default-key ${KEYNAME} --clearsign -o InRelease Release
