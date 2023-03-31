@@ -13,5 +13,10 @@ for os in "${OS[@]}"; do
         gpg --default-key ${KEYNAME} --clearsign -o InRelease Release
         cd ..
     done
+    apt-ftparchive packages . > Packages
+    gzip -k -f Packages
+    apt-ftparchive release . > Release
+    gpg --default-key ${KEYNAME} -abs -o Release.gpg Release
+    gpg --default-key ${KEYNAME} --clearsign -o InRelease Release
     cd ..
 done
