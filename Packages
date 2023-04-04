@@ -11,6 +11,19 @@ Homepage: https://vtouch.io
 Description: libtensorflow library
 Name: <jhna@vtouch.io>
 
+Package: libtensorflow
+Version: 1.0.0
+Architecture: amd64
+Maintainer: jichan Jeung
+Filename: ./libtensorflow.deb
+Size: 35855714
+MD5sum: 30680ec66091ce797d5b331d68c3883a
+SHA1: ed70922bbd245d111acfdcc351967b25a5ce959e
+SHA256: 7e79819d6826b5e698876bdc662d0a8fc1c05c15e36683887c45aa595ec355ab
+Homepage: https://vtouch.io
+Description: libtensorflow library
+Name: <jhjung@vtouch.io>
+
 Package: libvtouch-sensor
 Version: 1.0.0
 Architecture: amd64
@@ -41,14 +54,28 @@ Name: <jhjung@vtouch.io>
 
 Package: vtcore-dev
 Version: 1.0.0
+Architecture: amd64
+Maintainer: Jinhee Na
+Depends: libopencv-dev, libvtouch-sensor, rapidjson-dev, libtensorflow
+Filename: ./vtcore-dev_amd64.deb
+Size: 608
+MD5sum: 45304142ad37c46fb323052098132805
+SHA1: baa0d1b94e379f63b59718286c51be53a1a0b4a4
+SHA256: 19ae87d55c81f522e9bd42c3173aca48ea778b64f67b96715c3693e400eb1fbd
+Homepage: https://vtouch.io
+Description: VTouch wrapper library
+Name: <jhna@vtouch.io>
+
+Package: vtcore-dev
+Version: 1.0.0
 Architecture: arm64
 Maintainer: Jinhee Na
 Depends: libopencv-dev, libvtouch-sensor, rapidjson-dev, librknn
-Filename: ./vtcore-dev.deb
+Filename: ./vtcore-dev_aarch64.deb
 Size: 2636212
-MD5sum: e5428b1aba0672638749f767e2e89ac3
-SHA1: cd2405eccba6755ee3c7280817ec388d4ec6c7be
-SHA256: 636a5c8a1dd7529c4ce62ebe250f773ec616ab4c0e2630a248192e7579b681ea
+MD5sum: f7db104ca6580c03ed9b8f8ab6009c7d
+SHA1: e0a9442eb656d893c142b3bc3095bc233f963f10
+SHA256: f786d378e14fdee9a709f56cce563b846210b87e4cfdca216c94900d9b34e512
 Homepage: https://vtouch.io
 Description: VTouch wrapper library
 Name: <jhna@vtouch.io>
