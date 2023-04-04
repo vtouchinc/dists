@@ -45,10 +45,10 @@ Architecture: arm64
 Maintainer: Jinhee Na
 Depends: libopencv-dev, libvtouch-sensor, rapidjson-dev, librknn
 Filename: ./vtcore-dev.deb
-Size: 27594
-MD5sum: 2053bef88f760574ee3330c219cb39f8
-SHA1: 659d6bfc721a961a16cfe9f1f56051cc53ada409
-SHA256: 795db196b776b45a0be9f9dc1c46c3afe8558db9a0bad540fcee54f0b16107a3
+Size: 2636212
+MD5sum: e5428b1aba0672638749f767e2e89ac3
+SHA1: cd2405eccba6755ee3c7280817ec388d4ec6c7be
+SHA256: 636a5c8a1dd7529c4ce62ebe250f773ec616ab4c0e2630a248192e7579b681ea
 Homepage: https://vtouch.io
 Description: VTouch wrapper library
 Name: <jhna@vtouch.io>
