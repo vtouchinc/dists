@@ -14,3 +14,19 @@ Description: vtouch essential library
 Homepage: https://vtouch.io
 Architecture: amd64
 
+Package: vtcore-dev
+Version: 1.0.0
+Maintainer: Jinhee Na
+Name : <jhna@vtouch.io>
+Priority: optional
+Section: utils
+Filename: pool/test/v/vtcore-dev/vtcore-dev_1.0.0_amd64.deb
+Size: 1390288
+SHA256: be1f5676cd240ab4d52c477aac7922c68f057f67cb67729ab425c8df4ae4d557
+SHA1: afbc34843fa5f8993d6c17ffae50bd7b84e79107
+MD5sum: 7171dfe7cf929fa190f5b6c2702dccf1
+Description: VTouch wrapper library
+Homepage: https://vtouch.io
+Architecture: amd64
+Depends: libopencv-dev, libvtouch-sensor, rapidjson-dev, libtensorflow, cmake, make, g++
+

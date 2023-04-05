@@ -52,10 +52,10 @@ Name : <jhna@vtouch.io>
 Priority: optional
 Section: utils
 Filename: pool/main/v/vtcore-dev/vtcore-dev_1.0.0_amd64.deb
-Size: 642
-SHA256: 3c824161a28dee78713586db71010534809fef50fc971945450c73037619d3fa
-SHA1: 65c8353394d5fdfd17cf0f146c472b87e519ce63
-MD5sum: ab736073dcc601efde7e8d99de0c1fb3
+Size: 1390288
+SHA256: be1f5676cd240ab4d52c477aac7922c68f057f67cb67729ab425c8df4ae4d557
+SHA1: afbc34843fa5f8993d6c17ffae50bd7b84e79107
+MD5sum: 7171dfe7cf929fa190f5b6c2702dccf1
 Description: VTouch wrapper library
 Homepage: https://vtouch.io
 Architecture: amd64
