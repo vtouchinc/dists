@@ -13,6 +13,22 @@ Description: libtensorflow library
 Homepage: https://vtouch.io
 Architecture: aarch64
 
+Package: libvtouch-sensor
+Version: 1.0.0
+Maintainer: jichan Jeung
+Name : <jhjung@vtouch.io>
+Depends: libopencv-dev
+Priority: optional
+Section: utils
+Filename: pool/test/libv/libvtouch-sensor/libvtouch-sensor_1.0.0_aarch64.deb
+Size: 79348
+SHA256: ceeef75ca5afa70b3fdc65aba9307825373fa314aab2297dbd4063e94745dddb
+SHA1: ae40630de8275273ed7828d74301cd21f297dddc
+MD5sum: 478076e4616f7fe8b46e96983fd638ef
+Description: vtouch essential library
+Homepage: https://vtouch.io
+Architecture: aarch64
+
 Package: vps-dev
 Version: 1.0.0
 Maintainer: Jichan Jung

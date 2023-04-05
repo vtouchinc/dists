@@ -2,28 +2,28 @@ Origin: VTouch General Ubuntu Focal PC Repository
 Label: PC-focal
 Suite: stable
 Codename: focal
-Date: Wed, 05 Apr 2023 04:34:39 UTC
+Date: Wed, 05 Apr 2023 05:05:46 UTC
 Architectures: amd64
 Components: main test
 Description: VTouch Developer's Repository in Ubuntu focal PC
 MD5Sum:
- 9abc4b1bf57cbdcb6efb294ae7a086ae 1602 main/binary-amd64/Packages
- 381624acc46d870ac518ce012cc619cb 730 main/binary-amd64/Packages.gz
+ f9c7351e1189d57b08975b1469d29214 2088 main/binary-amd64/Packages
+ 19e9b7a59ee2ae5cbcecdbbafd151050 857 main/binary-amd64/Packages.gz
  42b377fe2882f3ee3ea61e310f769704 180 main/binary-amd64/Release
- d7dc90dba83fcfd909b82864e854386a 1602 test/binary-amd64/Packages
- 0624d9b8c6a10f4d91a17256f9cf79ac 730 test/binary-amd64/Packages.gz
+ 855ad9489341f7a33aea4b7591ad00c7 2088 test/binary-amd64/Packages
+ afd63402267ea7ee74b28ef2b6c88b89 857 test/binary-amd64/Packages.gz
  0911e7b5977fc8e6b84c9774a16d4cce 180 test/binary-amd64/Release
 SHA1:
- b1bcf44a38ac2c8729922378f3761f5677cf3976 1602 main/binary-amd64/Packages
- c1e63d47246d5b0de006878e236d9846daa83d53 730 main/binary-amd64/Packages.gz
+ 2ec5946f2e4b1ccf9bf4656f5c9dc76f6f8733ad 2088 main/binary-amd64/Packages
+ 8a06b22ee9934b7c3727229713181c48ba05ccf1 857 main/binary-amd64/Packages.gz
  9284710040e744fb17fdde6b5a3dbc6b0f7bf646 180 main/binary-amd64/Release
- 395b49610e4ac69071cdc369fc2b9849285c4ff7 1602 test/binary-amd64/Packages
- d753cf12ceb44b21013d94077e16a34303431e1d 730 test/binary-amd64/Packages.gz
+ 38e8bc85774a9d5d05f3d75786a1dda45bd9bf7f 2088 test/binary-amd64/Packages
+ 7981b341e4d65ad97a4b30ff5520bcb246c55a1c 857 test/binary-amd64/Packages.gz
  2032497c1357b9ca7434cc406af4f3ea60cec88c 180 test/binary-amd64/Release
 SHA256:
- 8f8371d604323b0270123fd1767b2d62574f57eb6456271fcb780d09fa1e7b33 1602 main/binary-amd64/Packages
- 899488ba1dd2eb45dbcf07c47ce3b5074b1efe222a0bdb74274547e733b0d800 730 main/binary-amd64/Packages.gz
+ 10b90d76d4a7c0655419ad0ae4d875b912ccc3d5f7939f0a4ecd842a9861d915 2088 main/binary-amd64/Packages
+ a42e5e1a98ab307c3a2da9324705f22a6dd8e7b1ded86ebfb609c8dc4e4055ee 857 main/binary-amd64/Packages.gz
  7703bcd59401c0c6e8a8300de4faede6a41ae541b5087155aaddfb7756ab84e2 180 main/binary-amd64/Release
- ac2b312f92e1097a7b5fb7578d9749dc3bcef8231c2b18e3981fa30c5f6a1bf5 1602 test/binary-amd64/Packages
- 668684c72bc6d0741566d97514437555afbbccef2054d48479ce0a5ccdcf9aa6 730 test/binary-amd64/Packages.gz
+ cc2e08c4fba01eb0abcdd0b826963f9938d2cfc3e1fad4d6f781b33561d8f90a 2088 test/binary-amd64/Packages
+ d4bc02d0281c50317c83bb9d704d9debd5c3745266bb1554f9d96076e4da0082 857 test/binary-amd64/Packages.gz
  ebd6af120f23265d1226147ab057961631bcdf401613a6ece364ef6691ebc184 180 test/binary-amd64/Release
