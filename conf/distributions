@@ -1,7 +1,7 @@
 Origin: VTouch Rockchip rk3566 Repository
 Label: rk3566
 Suite: stable
-Codename: rk3566
+Codename: bionic
 Components: main test
 Architectures: aarch64
 Description: VTouch Developer's Repository in rk3566
