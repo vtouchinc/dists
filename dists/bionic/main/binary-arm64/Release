@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: VTouch Rockchip rk3566 Repository
+Label: rk3566
+Architecture: arm64
+Description: VTouch Developer's Repository in rk3566

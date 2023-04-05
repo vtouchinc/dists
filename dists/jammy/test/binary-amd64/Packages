@@ -1,18 +1,33 @@
-Package: libvtouch-sensor
+Package: libtensorflow
 Version: 1.0.0
 Maintainer: jichan Jeung
 Name : <jhjung@vtouch.io>
-Depends: libopencv-dev
 Priority: optional
 Section: utils
-Filename: pool/test/libv/libvtouch-sensor/libvtouch-sensor_1.0.0_amd64.deb
-Size: 2942036
-SHA256: e5bcd4a920a243cb27074e4c4f1ecc841ed89aa5258752c47e49dc8c6ebb019a
-SHA1: 366b5ed26e8cf9826ba0847ac4d8f9c477207399
-MD5sum: c3ad25df52a77f541ffb53e75d58bbeb
-Description: vtouch essential library
+Filename: pool/test/libt/libtensorflow/libtensorflow_1.0.0_amd64.deb
+Size: 35855738
+SHA256: 70ae8cc6fef202cadc15938d96f534d5778c7c05e8c3896f018d5715974073d1
+SHA1: 31768d0c8722ad734daa25ea342473cbad27cc7b
+MD5sum: 7377b93beef75d9f8d74e6361994b638
+Description: libtensorflow library
 Homepage: https://vtouch.io
 Architecture: amd64
+
+Package: vps-dev
+Version: 1.0.0
+Maintainer: Jichan Jung
+Name : <jhjung@vtouch.io>
+Priority: optional
+Section: utils
+Filename: pool/test/v/vps-dev/vps-dev_1.0.0_amd64.deb
+Size: 690
+SHA256: 7e81fa32dc72b9f6f68b141203d467d20ad8ded336eddad1e245b0dc9a180916
+SHA1: 4acf95a63caf56a742bff4445bc67cf52799430b
+MD5sum: 4242fe579ee6e72c397d7a8b049ac6ce
+Description: Essenetial packages for develop vps
+Homepage: https://vtouch.io
+Architecture: amd64
+Depends: libopencv-dev, libvtouch-sensor, rapidjson-dev, git, libglu1-mesa-dev, freeglut3-dev, libglfw3-dev, libgles2-mesa-dev, libasound2-dev, libssl-dev, libboost-log-dev, cmake, make, g++
 
 Package: vtcore-dev
 Version: 1.0.0
@@ -22,9 +37,9 @@ Priority: optional
 Section: utils
 Filename: pool/test/v/vtcore-dev/vtcore-dev_1.0.0_amd64.deb
 Size: 1390288
-SHA256: be1f5676cd240ab4d52c477aac7922c68f057f67cb67729ab425c8df4ae4d557
-SHA1: afbc34843fa5f8993d6c17ffae50bd7b84e79107
-MD5sum: 7171dfe7cf929fa190f5b6c2702dccf1
+SHA256: 64f4f22c74b4125b52c42a0ead907538860dea0abb67fad7309885dacb032476
+SHA1: 46de382432dcc01245fd735946a0e810fbfe46d0
+MD5sum: 09ad5581e6ead91b69c9ac132bdfb0ab
 Description: VTouch wrapper library
 Homepage: https://vtouch.io
 Architecture: amd64

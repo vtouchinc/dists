@@ -1,0 +1,47 @@
+Package: librknn
+Version: 1.0.0
+Maintainer: Jinhee Na
+Name : <jhna@vtouch.io>
+Priority: optional
+Section: utils
+Filename: pool/main/libr/librknn/librknn_1.0.0_arm64.deb
+Size: 1022602
+SHA256: b86eab1e813e16e434c84b2645bc3e171ea306f87412036c415f4dc009c65d81
+SHA1: 1f8be8f28f46761cb9289dcc88155b6628e3752f
+MD5sum: 9655d8d049e4a6f67eeaea30512bde78
+Description: libtensorflow library
+Homepage: https://vtouch.io
+Architecture: arm64
+
+Package: vps-dev
+Version: 1.0.0
+Maintainer: Jichan Jung
+Name : <jhjung@vtouch.io>
+Priority: optional
+Section: utils
+Filename: pool/main/v/vps-dev/vps-dev_1.0.0_arm64.deb
+Size: 692
+SHA256: e78f8d7cf7b4e6d14c922298e9387cdb9e5a95871ba1c2e2cef3ae60b750269c
+SHA1: 355b005d577c8e2f8584a934d5253c0b723be960
+MD5sum: 9d8d993326cd6b924201a04a4bcecd34
+Description: Essenetial packages for develop vps
+Homepage: https://vtouch.io
+Architecture: arm64
+Depends: libopencv-dev, libvtouch-sensor, rapidjson-dev, git, libglu1-mesa-dev, freeglut3-dev, libglfw3-dev, libgles2-mesa-dev, libasound2-dev, libssl-dev, libboost-log-dev, cmake, make, g++
+
+Package: vtcore-dev
+Version: 1.0.0
+Maintainer: Jinhee Na
+Name : <jhna@vtouch.io>
+Priority: optional
+Section: utils
+Filename: pool/main/v/vtcore-dev/vtcore-dev_1.0.0_arm64.deb
+Size: 2636248
+SHA256: 8c4b337da17ac5002955ffbce8e5da6ea7d5818b7c776c31e32c62803b4508df
+SHA1: 323b51a36285dd8fc66ce968a55f0c76bef12af8
+MD5sum: 540d6bb7632211b14b49f4701851300b
+Description: VTouch wrapper library
+Homepage: https://vtouch.io
+Architecture: arm64
+Depends: libopencv-dev, libvtouch-sensor, rapidjson-dev, librknn, cmake, make, g++
+

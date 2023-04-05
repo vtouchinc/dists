@@ -5,44 +5,44 @@ Origin: VTouch General Ubuntu jammy PC Repository
 Label: PC-jammy
 Suite: stable
 Codename: jammy
-Date: Wed, 05 Apr 2023 05:46:29 UTC
+Date: Wed, 05 Apr 2023 07:03:40 UTC
 Architectures: amd64
 Components: main test
 Description: VTouch Developer's Repository in Ubuntu jammy PC
 MD5Sum:
- f4c6b89d6654050186f3046f23496405 1010 main/binary-amd64/Packages
- 9c5d429aa4bf95e55ad965d659d7423c 545 main/binary-amd64/Packages.gz
+ 38d578d24a02399da3cb2e70a61741ac 1606 main/binary-amd64/Packages
+ 840251f812ce11bdec68af468c88246e 728 main/binary-amd64/Packages.gz
  ca11b9f4cbe61c4ac1249cd6f23f189c 180 main/binary-amd64/Release
- 69fba41b43c76533b204b3b3c6a62bcc 1010 test/binary-amd64/Packages
- 838bf723c673744059a6951767d7bd52 545 test/binary-amd64/Packages.gz
+ 8c9070bd588712060d0ba4b1c8dae6d1 1606 test/binary-amd64/Packages
+ 5e7411ceb083848ec28a6f6cd8adea34 725 test/binary-amd64/Packages.gz
  68c609156be3aad32a5e58c6c71fa392 180 test/binary-amd64/Release
 SHA1:
- 066acec38d6381b9f77a352488f389be8d28a78c 1010 main/binary-amd64/Packages
- 024e3c7629043db8e4a91c884266051f69207062 545 main/binary-amd64/Packages.gz
+ 9ea16661dcc33db713603eff45ac542f1d9e7ab1 1606 main/binary-amd64/Packages
+ d577f7054b92ed4438a8b0fcc11e692fa226bec6 728 main/binary-amd64/Packages.gz
  c9b4fd728436276130b042c59db906c830f7e995 180 main/binary-amd64/Release
- 0f264e734a658ed90ce6c990eb07c98968aeb1e4 1010 test/binary-amd64/Packages
- 3871b8a83d22a38cd43a12d24364becccc8bb6d4 545 test/binary-amd64/Packages.gz
+ cd7ab01e1c3f88e3cea0b1549e66af5d96ee5c6c 1606 test/binary-amd64/Packages
+ c6e3a6dc3f4719cc105711b62ccd3f5551b7a10b 725 test/binary-amd64/Packages.gz
  e962cc8595518e0080033404c50d4492d3c2aa8e 180 test/binary-amd64/Release
 SHA256:
- 8bc75f940b496230d1c2f63ccd2f424b996489e05ab5a454cb020bff33cc6171 1010 main/binary-amd64/Packages
- d09b6017b7838a8bfbeb378194533085a02408587862f86bf835ca1a7e4e755f 545 main/binary-amd64/Packages.gz
+ 9c8e495023251a82df2621b1422eab512603ee3e04f54bcabcc94b572cd0ae10 1606 main/binary-amd64/Packages
+ c701bd8da6bc9e408085b00dd9933f2863441d4bfd377c702455bd31c7bb3c30 728 main/binary-amd64/Packages.gz
  6c3ad9a466f4e43ab6413dc667e47c66e97b12521c7a7457e6fb2e55a0003d9b 180 main/binary-amd64/Release
- a17a7434652d1f020c39a384a8bee17715ea9f3ff9ed35c2f2c558b343165537 1010 test/binary-amd64/Packages
- f95785af26214cf408b2a7d76a34cf913f0ac92c4a21feff00c3960745f53d2f 545 test/binary-amd64/Packages.gz
+ 15775b7cbd0b599fe769f350c210f1717ec36f7cd3f149ee2d00c2d1cdfab1d0 1606 test/binary-amd64/Packages
+ 4f4a9c3918c1f36f0138e502e344820972e67d3c6b3c55f7635ced6a0f1c666b 725 test/binary-amd64/Packages.gz
  56fada9d83fdcc173aca25d81c1622c745e02c267971b2ebfb81eae28d469be7 180 test/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEVeqTDR2e+3prLrkGkDHZFOM9388FAmQtCzYACgkQkDHZFOM9
-3882WxAAzGUUnjA1SoKM8fi7/ZBUk+gnFm7lR76bsTkLLhN+2/bHNhQWK5puFF54
-XAavWpkvxUNc/bCg01nXqVvW3ZlI9XsF8xVzY7VXUUq0EeiQwQznIMCXuh3JDdqo
-WPmAKy/I+CLpdErIZFv3ayeJo0LsU9pI9csFxBYiBd1w7vCl6OxxqNDK4HGt/OsW
-fRHxZf4cGRzyTHtA4Qr6kLMFV71omEZ8AB9Ms2K5oUPC7N1dUsag/WvGnErW3fxc
-L3HLUFxJ3BULvBI6RNwwN93lHzIfnUxltcSgansnzfguKRHLyYzXPbAQeuTh/nx0
-P04xp8xkvVv4MKbMOccfutAE4Qco+iz0yc0cN4W4o8gzWZ/ZHxGeY0uw0TYtYktH
-f0Z7XhfHrsJfyMK8y9L867onBnGT8AglNmjXEYBEyRPxnwZHxkNmTu1+a2gfYKa/
-EVxPpoZTin5s4xUsmjPtodrJ1K8Qw7HGJAXSHxuNd1/YMEdTK10ewROFAb+OqvBB
-rAL7bleOtjB0FAN9kh+AyEpa1q2tnqZxFk9ckvCB7YlyZyCaOWObAW2wPJvSrz+1
-AZFjA/WZBV5ADqIpCKM9CwjJHaY1zVq7TLM7cQMta1/DmONRVD1AyOL61Ig0XGEc
-wHFCoEEar//CIwOcu/UA4/zgctbLXE9BFXpmgxY5b+l9TF3rArY=
-=GmpH
+iQIzBAEBCgAdFiEEVeqTDR2e+3prLrkGkDHZFOM9388FAmQtHUwACgkQkDHZFOM9
+388njw/+OMAy399m1Pv07W34DYHVWMz1TP3IVGk1n6c9y4yO/jdpafr3xAeU/J+O
+S16J4o2z+wsehVdORH7g5dYBFEN2pr1WEBQKB0W5zlOuvMMCXSTgP95UDP6o4gOq
+9eXrHwASqGIRxL4blok+QwvH1MqPOLG8TkOq9IGyeAXXI+Cqz58LG/BdMEFN2asq
+FKDpcbBU+O9Tj2x+oO8lW7rMhkXinY0bjO5tBKJKhsyTzUsM1D7qx3Ui+D0hepa2
+I77Up4EzlNyIJjN/IQPst40Fd3nrVfNRD945JPbIBXu5AmKHVWLThIXkZePaXyY7
+zwFFROPqywbrwMtJqcgmd1BwseE4u5Y5iO9GzyPEUpI1hzagle2DO1RmtCKYDRpN
+smQfwR8NRnPLDkt/LGVg/HgPelNOJUaA4IDkCWZQn0nJprsh9MmCkXNna0l/yTE+
+jC2iUnKciXN6TkfSWdX1fNwe+LJ9ponH/WUDljOj9B/e4sLyTw4Z+J2lweeLWDAO
+lTpELSoGxZVLyzYl/gByXzGzFZ06kuZVlc97cM5Ov8aaFsMOo8v5IWrUQ3QpNyoe
+UHL7Y/yzcRgGIOh2tYEJswesINyXBxcOjysO/kS5NLVzzQ1lEDB0m3HrxqxqWM40
+3njz/7doqxslVIYKYbNw8Flz2zAUIrBki/dgAL/mLlayx4VwVXA=
+=MZYm
 -----END PGP SIGNATURE-----

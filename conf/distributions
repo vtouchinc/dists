@@ -3,7 +3,7 @@ Label: rk3566
 Suite: stable
 Codename: bionic
 Components: main test
-Architectures: aarch64
+Architectures: arm64
 Description: VTouch Developer's Repository in rk3566
 SignWith: yes
 
