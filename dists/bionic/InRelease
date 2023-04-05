@@ -5,44 +5,44 @@ Origin: VTouch Rockchip rk3566 Repository
 Label: rk3566
 Suite: stable
 Codename: bionic
-Date: Wed, 05 Apr 2023 07:03:52 UTC
+Date: Wed, 05 Apr 2023 07:24:57 UTC
 Architectures: arm64
 Components: main test
 Description: VTouch Developer's Repository in rk3566
 MD5Sum:
- 81bb3247b81f1c80ac1088f6eb687248 1576 main/binary-arm64/Packages
- 05b50b6283ff6b33eaaa3dd223f449cf 728 main/binary-arm64/Packages.gz
+ dde698540596edb17c0b9f99f8dfbdad 2060 main/binary-arm64/Packages
+ 6344254d176f77c192b531b03e9ba1c1 866 main/binary-arm64/Packages.gz
  26169b1635e836931bcbfdd004e6ba32 161 main/binary-arm64/Release
- f7a5fe80b1ac482091cb299fae215725 1576 test/binary-arm64/Packages
- 744524c9d5045c9efe21406efc581b80 731 test/binary-arm64/Packages.gz
+ a03134ff8c817b9914a6a4015d15a1bb 2060 test/binary-arm64/Packages
+ e6edb23595bd4364f77e7dbdd251a556 866 test/binary-arm64/Packages.gz
  0ecd893bc6f45ad7df2d626c4bbe2b7e 161 test/binary-arm64/Release
 SHA1:
- e5a02cc38af011dcdb2fb2473b90b8fa48195abf 1576 main/binary-arm64/Packages
- c8945df6ef4c075ffb8c787dfbf78643ae3b85e3 728 main/binary-arm64/Packages.gz
+ 6daf9f4f0d1cb957c492160ad869c01f4b0b9cf5 2060 main/binary-arm64/Packages
+ f6871207799017681f7ec36f802b41c37903bb2b 866 main/binary-arm64/Packages.gz
  e25f0df54d5a7879e14cc4bc3c08e06f058cfd66 161 main/binary-arm64/Release
- beb4d786960af018336a1d83031c059cc5e8ec53 1576 test/binary-arm64/Packages
- 93373903319f0c90dbab5938e0f42ab92e3b1ea9 731 test/binary-arm64/Packages.gz
+ d6335e3c55a87a0215f62ccaa50dcd9ec02ad705 2060 test/binary-arm64/Packages
+ 902fb9414aad7732ee794dd77dbf2574fdad8215 866 test/binary-arm64/Packages.gz
  d28a2aaba13be30fb368bad475a568a11a744c0d 161 test/binary-arm64/Release
 SHA256:
- 77be107999cf424de2a12bdb1e3dbcb4d33a77d90bcb29b15736e34f4a1c9af5 1576 main/binary-arm64/Packages
- 382f90971a97be417d4fdaf76e7da456500918d1f6398ede363fd786ea117b79 728 main/binary-arm64/Packages.gz
+ c70a0de7081fde9d78e290221ddabe8a059b8d8719fbb9d469856fbf6ddc43c4 2060 main/binary-arm64/Packages
+ e5f7e9e8ea7bb9ec05b2c2a9d96778e64a49fced725b2930d151f5f05f862a9e 866 main/binary-arm64/Packages.gz
  c8f7bac514d14a0b317e31816c49a52f8955e2879785eb53a30953d897fda5d7 161 main/binary-arm64/Release
- 37aac2ebffb765b49c88facbccc3c1fdfcc0fbc2ea2edd5688b532e0a9ab5eff 1576 test/binary-arm64/Packages
- 46a51d386b29ffe2c58cc7e4fdcf63e0714857e3ab19e0f40181e56e41e407ff 731 test/binary-arm64/Packages.gz
+ 91289ce4df2527aca2b5e5913cf3845fc075bc9b8dd8a196ac4d6ab8e768e122 2060 test/binary-arm64/Packages
+ 4a37af6a66368a145b86359c2883666e98b5d06cabf9001ac0d4ecd18bd76684 866 test/binary-arm64/Packages.gz
  774613ade2dca0988c9ea5db587a875ae15c243c76d6c65c00103cf06c440004 161 test/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEVeqTDR2e+3prLrkGkDHZFOM9388FAmQtHVkACgkQkDHZFOM9
-38/iEg//SKSLfJXexXcts4c8UTTMOiLs9P9f/nGIVQMLm9MYKfm/MsR+DGTG/FoF
-ds/ReMdsgJ/dwWQ5MkkwoXcOfDPCUHDlsbFiN8yuUSuS1X8P2CsvT3lpoiuTnZz7
-6Apivk32PV797J3ZSFdt38IdMMQxWfpafexrLYgb8Kmr1Tl3lyHPZ4/hrau49kHM
-ucy31bunG61KefGqieyI/nQgyap0DK/DCmcRCOEaV40wim/QmqWy5XFwCpEzAIbr
-rnrv0/GXm9loQl1JBakMcidK/lAc4ciz9+Madj+qlHApS0ZWSf7F0Hew24vXMEnA
-1xAzRZlt1jpo+jB2Mj+9AlWZlZBFGEJevjV3dtgWcHbqupUj9bSXEZRjTzGc858p
-/OddIOtdCmTKDL3jmtqP3B2CiwnvdYowYMZ50fh2wnPLTFkT4R5unsCj6aXH9MxT
-6g9YlTct+C+i+OVB+AXjN8MJ5A6pPRzaDRKic7lQjkoHuc258z8t0HQ3Ao72Co7y
-X438FYphpiZD9sD3RobYpsSd3+EEoQfCiQ8/zA3/2pJVvnRZoRSpnFNktpzUNqXw
-PasCxZzhNW+b2VfcATST4qvGKLXzp5wQaIiEbkhG8Af/uEOxFV43SxIqLx4DW7ZT
-sGi//Rce+BJIYJ3LosVQKq/njoZLHNfLlvzvbQf3vfFrAkXnftY=
-=exAn
+iQIzBAEBCgAdFiEEVeqTDR2e+3prLrkGkDHZFOM9388FAmQtIkkACgkQkDHZFOM9
+388Fnw/+OnzSn6Nj033tM0SNM4xIzne0OM8ORsTI+tMG+wAI5hAiUgyoL1C9/Qq5
+CgtC0ILMMS3+c9taVaoADU4CB2RkdwSJ/n1hbIQzcIrrxcLBgC2Wdv7YChmC+oIl
+LjOKiuyldJyuxumiCmdregFVeFulIg6l5A+xXizioo0Q5EH8guiWXLlaO0TnmWFp
+1FoZ17xP/zzES5GHwxgX9ZyELs5U3h9TPT9807yDryDxV6oOoaSP7+kDwM/I4KpZ
+UyduNbtY1kBUd+2/3QcGma34OAhP8dLyPeIPGO6YUiNJEr5b4/O3S2MZazpcXNHF
+y1Y8c1zrDf4ci/8UJRe76UumAI2LvU66ba2FX31rilKVpcg1sMjK/NqrOwUuvufb
+RjnW0zdX4bGENUga7cJUVvSDyHoOxaAskFftQveojS7QtCIcjUZLACWaubWwSwZV
+txGl7wU4tZab1xDXJjRML++SAPB32AC60tss0dl2BsSAIxyAAsxFLlCr5zOOPvhF
+znqABebalCevJUE4W+GhHuRSclnjdWrDZv9V7gIOW//UB4kmBPChfQirEMQYrQLi
+4U8cyzNiI79iL7Oqq4qBhUMGQ6jOc08gVrBmj/s9BojJuHuO8NUdurRXD/kaI1RP
+XCM/GB23+lO0x8AuamVUs9gBUE65im7O1g3HMuqIaw7n51mNCx0=
+=NqR3
 -----END PGP SIGNATURE-----
