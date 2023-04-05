@@ -1,0 +1,27 @@
+Origin: VTouch Rockchip rk3566 Repository
+Label: rk3566
+Suite: stable
+Codename: rk3566
+Components: main test
+Architectures: aarch64
+Description: VTouch Developer's Repository in rk3566
+SignWith: yes
+
+Origin: VTouch General Ubuntu Focal PC Repository
+Label: PC-focal 
+Suite: stable
+Codename: focal
+Components: main test
+Architectures: amd64
+Description: VTouch Developer's Repository in Ubuntu focal PC
+SignWith: yes
+
+Origin: VTouch General Ubuntu jammy PC Repository
+Label: PC-jammy
+Suite: stable
+Codename: jammy
+Components: main test
+Architectures: amd64
+Description: VTouch Developer's Repository in Ubuntu jammy PC 
+SignWith: yes
+

@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: VTouch General Ubuntu jammy PC Repository
+Label: PC-jammy
+Architecture: amd64
+Description: VTouch Developer's Repository in Ubuntu jammy PC

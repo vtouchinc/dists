@@ -1,0 +1,29 @@
+Origin: VTouch Rockchip rk3566 Repository
+Label: rk3566
+Suite: stable
+Codename: rk3566
+Date: Wed, 05 Apr 2023 03:29:18 UTC
+Architectures: aarch64
+Components: main test
+Description: VTouch Developer's Repository in rk3566
+MD5Sum:
+ e98e981c8acb56179ee4e75d72788ce0 1588 main/binary-aarch64/Packages
+ 9bf1070751a44af07269a636f49339b7 731 main/binary-aarch64/Packages.gz
+ 60b8fa5fc0dbe5c39026d00c9d260d8d 163 main/binary-aarch64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 test/binary-aarch64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 test/binary-aarch64/Packages.gz
+ b52efcfb023c45ed4693ab9f44fe9958 163 test/binary-aarch64/Release
+SHA1:
+ 0d5467e2ae6fcc77e820220e0ab5283094c06fe0 1588 main/binary-aarch64/Packages
+ 8253d77992bee2403f5adf8a7feb8360f3a4a595 731 main/binary-aarch64/Packages.gz
+ 65d7ed1b2d6c94003fefe059d25cd3bac4a75ea1 163 main/binary-aarch64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 test/binary-aarch64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 test/binary-aarch64/Packages.gz
+ 93e64f014ff5f620f4aba1dee280e0b76c0e40c4 163 test/binary-aarch64/Release
+SHA256:
+ 9b7e21971731ec3bdbda70870c95ecccd1ca9bd814be809f24792bdf496530ad 1588 main/binary-aarch64/Packages
+ e389586047c94252c4675fd092c50b095332fc59c9b0026df28a2e9739f44e2f 731 main/binary-aarch64/Packages.gz
+ 3753ba47d086e751176ffe58c2e796834b6b1fce2304b08b30f420a66532bcd4 163 main/binary-aarch64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 test/binary-aarch64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 test/binary-aarch64/Packages.gz
+ 2058ad72e15bc320eb41591092ff451937f91606cfb29209d748e594afb26598 163 test/binary-aarch64/Release

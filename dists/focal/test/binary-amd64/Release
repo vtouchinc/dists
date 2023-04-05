@@ -1,0 +1,6 @@
+Archive: stable
+Component: test
+Origin: VTouch General Ubuntu Focal PC Repository
+Label: PC-focal
+Architecture: amd64
+Description: VTouch Developer's Repository in Ubuntu focal PC
