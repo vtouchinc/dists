@@ -5,7 +5,7 @@ Origin: VTouch Rockchip rk3566 Repository
 Label: rk3566
 Suite: stable
 Codename: rk3566
-Date: Wed, 05 Apr 2023 03:29:18 UTC
+Date: Wed, 05 Apr 2023 04:10:21 UTC
 Architectures: aarch64
 Components: main test
 Description: VTouch Developer's Repository in rk3566
@@ -13,36 +13,36 @@ MD5Sum:
  e98e981c8acb56179ee4e75d72788ce0 1588 main/binary-aarch64/Packages
  9bf1070751a44af07269a636f49339b7 731 main/binary-aarch64/Packages.gz
  60b8fa5fc0dbe5c39026d00c9d260d8d 163 main/binary-aarch64/Release
- d41d8cd98f00b204e9800998ecf8427e 0 test/binary-aarch64/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 test/binary-aarch64/Packages.gz
+ 1e2dbb1300d226b7ab581aed6491bcd6 1588 test/binary-aarch64/Packages
+ b6dfce769a20161eb7baf9ac3ee29b76 733 test/binary-aarch64/Packages.gz
  b52efcfb023c45ed4693ab9f44fe9958 163 test/binary-aarch64/Release
 SHA1:
  0d5467e2ae6fcc77e820220e0ab5283094c06fe0 1588 main/binary-aarch64/Packages
  8253d77992bee2403f5adf8a7feb8360f3a4a595 731 main/binary-aarch64/Packages.gz
  65d7ed1b2d6c94003fefe059d25cd3bac4a75ea1 163 main/binary-aarch64/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 test/binary-aarch64/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 test/binary-aarch64/Packages.gz
+ 9d2bec4e89b8b88d3f02d550384f2e5306bbf99f 1588 test/binary-aarch64/Packages
+ 986fba4f26fe9bfbdb6b66083d675680f80daf71 733 test/binary-aarch64/Packages.gz
  93e64f014ff5f620f4aba1dee280e0b76c0e40c4 163 test/binary-aarch64/Release
 SHA256:
  9b7e21971731ec3bdbda70870c95ecccd1ca9bd814be809f24792bdf496530ad 1588 main/binary-aarch64/Packages
  e389586047c94252c4675fd092c50b095332fc59c9b0026df28a2e9739f44e2f 731 main/binary-aarch64/Packages.gz
  3753ba47d086e751176ffe58c2e796834b6b1fce2304b08b30f420a66532bcd4 163 main/binary-aarch64/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 test/binary-aarch64/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 test/binary-aarch64/Packages.gz
+ a7559b59e1af549f5fb0b9481e999cda6347b537f12079b050177a7889e37ef2 1588 test/binary-aarch64/Packages
+ 277459a360b9e4b82b55768e14717bb782ee35c02be6dd346b4ba181ddadbf3d 733 test/binary-aarch64/Packages.gz
  2058ad72e15bc320eb41591092ff451937f91606cfb29209d748e594afb26598 163 test/binary-aarch64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEVeqTDR2e+3prLrkGkDHZFOM9388FAmQs6w4ACgkQkDHZFOM9
-38/R8BAAv5c31b9PuprnNI9GVuE3B8j6h3nQ4cEMyGM9n6q10ZLac2+iRXxtQtvg
-kLkwQ7foEwJltUcF4osfpBjAVk00nDFtSIq0LVJ/zqVEw+s/zFQ0nr/tull5GLf9
-upfIMCz5u5nxJeXYKo+JIXHpDUvu527TGT/XPSTfBtx4+Lzfm1k2j/29wKyYw0UL
-G03kP2hKCUkvB3qAYktbK/UOhI0y3Ra0422gc/1GJBpcVTYppyjqxEN7u/IaO20L
-FEK+zK4MH9yjOBsfJUVkJnk/KcopY2MaUdcQ4K9pwkBiZf8F0bJoZiNm8tlMHClW
-Tro16eX2uEajNGFJ17yCmH0Y/KWQGwPpCSH+3qRJ309dCqHyp7dH0kcrUNmMvVh0
-L/Btg8d/XhITrqr1+/YlbCL1KASMTIN/1yr6WAqze6xRO8GQEXWpLNBp2kkx93dC
-vM0utVdDeP0XMBsOxsE1LQCdhbUWbMQwwjVnrNExXNzUNAxVO2+knDsiRvtx0Txb
-FD0ilRxv1ZJglm8kSyoo3DpgDeRI+kafpHP7rkz3fYTXJQI7zWbSU0WyCV+t9Zvp
-TLPEMqana4sr9Yd14jgCYrmoPocmnZwoW7kcOn70DwPeWcWJEWNuiGQR3GC4eAnP
-8ArG71CRIbo0AVC+KFpd+Uh6lFYmDp5sm5gJ0PUF4sVVWKFaK+c=
-=l3YA
+iQIzBAEBCgAdFiEEVeqTDR2e+3prLrkGkDHZFOM9388FAmQs9K4ACgkQkDHZFOM9
+38+Umw/9HaGW3xvtO3mXDlpossjfd0+5Gw7X5ILqqaogVPnD+VsAvlT0QoeGH9Gk
+izggVJ8IHs5M35VvYeVnv4S+pAwo+EQN/6QV8gr1a+kp/OV8jzVhb7xpjpKHYItg
+U6QLLXxCOYpi50oKZYkalF7Om3Qac4hQ0ZtvdP4KfysEcUMT9+K+N/qZWq0xooxY
+h9QJZ9lYrs1kwwG3u87acqcKnaeguy9feoJ6c+/TwHoYwA57vDCNhLwOzGvDd9eq
+L6B/MDS6ztVeV7fnFKdQg+8OO2CtzH7VwUIO2P9kkqWTLcG0h50yxoHvlBCuPkAT
+OGX+ApR627bqhypGiXeFWYLMKK3gt8kZLc3BA7SwMtsqvZwX8dNK6hY3FmtQgxIH
+S+yJs71MEVpnzPmaV38d2DhASmeTY7+tNNtr745yZdoD0Up97VWQ6rgDMKzbdO8n
+NgV1gyqxhB/XK7Y4VMeBg/pfwKD3nLNQVCZCB6aDjw2krrYNHicT84axcWlXc62Y
+LEA4E0PWOHQeVy/gmLrnCDY3sTdZ2riVKGAYEgOAmtX3M7VXQzfh8E3KWiiaa9Mi
+6Fqg+zJ9UxMepHpQ+8vOabyC38WMMjQJ10RvHdN0PJv3QwkRiLK6mnTpdHnlMH83
+fqcpA1kA3Pl1E9cLTcOoM830yucDqgMqyhZAk+i4koVMj47nZRI=
+=WYDQ
 -----END PGP SIGNATURE-----

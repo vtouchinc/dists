@@ -1,0 +1,47 @@
+Package: libtensorflow
+Version: 1.0.0
+Maintainer: jichan Jeung
+Name : <jhjung@vtouch.io>
+Priority: optional
+Section: utils
+Filename: pool/main/libt/libtensorflow/libtensorflow_1.0.0_amd64.deb
+Size: 35855738
+SHA256: b9bfbd9c73cbf5dc08e9fc44870ff75614cef41a56fea3d517fbef00f5fd7d53
+SHA1: d4475b76a4bb1ccedf5b519c5c271aa1060468dd
+MD5sum: 0c61ad0512a924fe9a88713cac952678
+Description: libtensorflow library
+Homepage: https://vtouch.io
+Architecture: amd64
+
+Package: vps-dev
+Version: 1.0.0
+Maintainer: Jichan Jung
+Name : <jhjung@vtouch.io>
+Priority: optional
+Section: utils
+Filename: pool/main/v/vps-dev/vps-dev_1.0.0_amd64.deb
+Size: 690
+SHA256: 9c4a68b437fabb83c40750a58e2244e73bd59cfcb70ac89b35551afcb36a6c63
+SHA1: cbaab4442a02268b0ad70911737a290209a88229
+MD5sum: 151dff7b59fe67c1a34e2dc4bbaae8cc
+Description: Essenetial packages for develop vps
+Homepage: https://vtouch.io
+Architecture: amd64
+Depends: libopencv-dev, libvtouch-sensor, rapidjson-dev, git, libglu1-mesa-dev, freeglut3-dev, libglfw3-dev, libgles2-mesa-dev, libasound2-dev, libssl-dev, libboost-log-dev, cmake, make, g++
+
+Package: vtcore-dev
+Version: 1.0.0
+Maintainer: Jinhee Na
+Name : <jhna@vtouch.io>
+Priority: optional
+Section: utils
+Filename: pool/main/v/vtcore-dev/vtcore-dev_1.0.0_amd64.deb
+Size: 642
+SHA256: 3c824161a28dee78713586db71010534809fef50fc971945450c73037619d3fa
+SHA1: 65c8353394d5fdfd17cf0f146c472b87e519ce63
+MD5sum: ab736073dcc601efde7e8d99de0c1fb3
+Description: VTouch wrapper library
+Homepage: https://vtouch.io
+Architecture: amd64
+Depends: libopencv-dev, libvtouch-sensor, rapidjson-dev, libtensorflow, cmake, make, g++
+
