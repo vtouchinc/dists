@@ -2,7 +2,7 @@ Origin: VTouch General Ubuntu Focal PC Repository
 Label: PC-focal
 Suite: stable
 Codename: focal
-Date: Wed, 05 Apr 2023 07:03:39 UTC
+Date: Thu, 06 Apr 2023 01:37:35 UTC
 Architectures: amd64
 Components: main test
 Description: VTouch Developer's Repository in Ubuntu focal PC
@@ -10,20 +10,20 @@ MD5Sum:
  38d578d24a02399da3cb2e70a61741ac 1606 main/binary-amd64/Packages
  840251f812ce11bdec68af468c88246e 728 main/binary-amd64/Packages.gz
  42b377fe2882f3ee3ea61e310f769704 180 main/binary-amd64/Release
- 8c9070bd588712060d0ba4b1c8dae6d1 1606 test/binary-amd64/Packages
- 5e7411ceb083848ec28a6f6cd8adea34 725 test/binary-amd64/Packages.gz
+ 7a4729d79bc1908d4c8f2befa15bb473 2092 test/binary-amd64/Packages
+ 42e090a2e625b1f0e2308d60e96a9cbb 854 test/binary-amd64/Packages.gz
  0911e7b5977fc8e6b84c9774a16d4cce 180 test/binary-amd64/Release
 SHA1:
  9ea16661dcc33db713603eff45ac542f1d9e7ab1 1606 main/binary-amd64/Packages
  d577f7054b92ed4438a8b0fcc11e692fa226bec6 728 main/binary-amd64/Packages.gz
  9284710040e744fb17fdde6b5a3dbc6b0f7bf646 180 main/binary-amd64/Release
- cd7ab01e1c3f88e3cea0b1549e66af5d96ee5c6c 1606 test/binary-amd64/Packages
- c6e3a6dc3f4719cc105711b62ccd3f5551b7a10b 725 test/binary-amd64/Packages.gz
+ b47c4422b2a97a771b7c4f525d023e8eb4c0c504 2092 test/binary-amd64/Packages
+ 7b7ebcb4a865acd7785adebcfe4778300607a517 854 test/binary-amd64/Packages.gz
  2032497c1357b9ca7434cc406af4f3ea60cec88c 180 test/binary-amd64/Release
 SHA256:
  9c8e495023251a82df2621b1422eab512603ee3e04f54bcabcc94b572cd0ae10 1606 main/binary-amd64/Packages
  c701bd8da6bc9e408085b00dd9933f2863441d4bfd377c702455bd31c7bb3c30 728 main/binary-amd64/Packages.gz
  7703bcd59401c0c6e8a8300de4faede6a41ae541b5087155aaddfb7756ab84e2 180 main/binary-amd64/Release
- 15775b7cbd0b599fe769f350c210f1717ec36f7cd3f149ee2d00c2d1cdfab1d0 1606 test/binary-amd64/Packages
- 4f4a9c3918c1f36f0138e502e344820972e67d3c6b3c55f7635ced6a0f1c666b 725 test/binary-amd64/Packages.gz
+ 0863ceb9a158031c9710731b6061a1c62b8c3b6820462c82c780de81cee330cb 2092 test/binary-amd64/Packages
+ 2979a8d1d92d8d0c1bf397585290a1aebbb6be7a7b73b25641a0bb2ee33415d7 854 test/binary-amd64/Packages.gz
  ebd6af120f23265d1226147ab057961631bcdf401613a6ece364ef6691ebc184 180 test/binary-amd64/Release
