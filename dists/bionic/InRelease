@@ -5,44 +5,44 @@ Origin: VTouch Rockchip rk3566 Repository
 Label: rk3566
 Suite: stable
 Codename: bionic
-Date: Wed, 05 Apr 2023 07:24:57 UTC
+Date: Thu, 06 Apr 2023 06:52:26 UTC
 Architectures: arm64
 Components: main test
 Description: VTouch Developer's Repository in rk3566
 MD5Sum:
- dde698540596edb17c0b9f99f8dfbdad 2060 main/binary-arm64/Packages
- 6344254d176f77c192b531b03e9ba1c1 866 main/binary-arm64/Packages.gz
+ 1c1145be1b37527c7ce2efeb8e653d9f 2060 main/binary-arm64/Packages
+ d42b541aec0288a7afd054c6f0d50137 865 main/binary-arm64/Packages.gz
  26169b1635e836931bcbfdd004e6ba32 161 main/binary-arm64/Release
- a03134ff8c817b9914a6a4015d15a1bb 2060 test/binary-arm64/Packages
- e6edb23595bd4364f77e7dbdd251a556 866 test/binary-arm64/Packages.gz
+ 4bcfc7c1fe2217821f265c8a63bdf51d 2060 test/binary-arm64/Packages
+ 4197d628bcd776d22e632685edff4021 865 test/binary-arm64/Packages.gz
  0ecd893bc6f45ad7df2d626c4bbe2b7e 161 test/binary-arm64/Release
 SHA1:
- 6daf9f4f0d1cb957c492160ad869c01f4b0b9cf5 2060 main/binary-arm64/Packages
- f6871207799017681f7ec36f802b41c37903bb2b 866 main/binary-arm64/Packages.gz
+ 55af0a56eed0ee8901e343239ecbda87b312d5b7 2060 main/binary-arm64/Packages
+ cc689a88beb49698423ab460d2cb16fd35eb7b4b 865 main/binary-arm64/Packages.gz
  e25f0df54d5a7879e14cc4bc3c08e06f058cfd66 161 main/binary-arm64/Release
- d6335e3c55a87a0215f62ccaa50dcd9ec02ad705 2060 test/binary-arm64/Packages
- 902fb9414aad7732ee794dd77dbf2574fdad8215 866 test/binary-arm64/Packages.gz
+ c18d02c139747350e290884eed78b203cde5d389 2060 test/binary-arm64/Packages
+ 83e9d1eff1d7ee8441fd88d925ce85c5d0202284 865 test/binary-arm64/Packages.gz
  d28a2aaba13be30fb368bad475a568a11a744c0d 161 test/binary-arm64/Release
 SHA256:
- c70a0de7081fde9d78e290221ddabe8a059b8d8719fbb9d469856fbf6ddc43c4 2060 main/binary-arm64/Packages
- e5f7e9e8ea7bb9ec05b2c2a9d96778e64a49fced725b2930d151f5f05f862a9e 866 main/binary-arm64/Packages.gz
+ 0abc41de58277bec1007d53e052ea18d2459ca9366c26730e4e282569123b094 2060 main/binary-arm64/Packages
+ 025e7156262a9cf3082a10e3a5a62e79bd299dfdd2843f3b6d458b1013747f24 865 main/binary-arm64/Packages.gz
  c8f7bac514d14a0b317e31816c49a52f8955e2879785eb53a30953d897fda5d7 161 main/binary-arm64/Release
- 91289ce4df2527aca2b5e5913cf3845fc075bc9b8dd8a196ac4d6ab8e768e122 2060 test/binary-arm64/Packages
- 4a37af6a66368a145b86359c2883666e98b5d06cabf9001ac0d4ecd18bd76684 866 test/binary-arm64/Packages.gz
+ 6ac94a68c3ae7f45baf5b172f4b8891968ce749ee6c8d811a73ea1c3f9667c6a 2060 test/binary-arm64/Packages
+ fedac9d66662dd25c81e34b3c03d3eb0a476948de16f9ac5bb7fcabb539e906f 865 test/binary-arm64/Packages.gz
  774613ade2dca0988c9ea5db587a875ae15c243c76d6c65c00103cf06c440004 161 test/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEVeqTDR2e+3prLrkGkDHZFOM9388FAmQtIkkACgkQkDHZFOM9
-388Fnw/+OnzSn6Nj033tM0SNM4xIzne0OM8ORsTI+tMG+wAI5hAiUgyoL1C9/Qq5
-CgtC0ILMMS3+c9taVaoADU4CB2RkdwSJ/n1hbIQzcIrrxcLBgC2Wdv7YChmC+oIl
-LjOKiuyldJyuxumiCmdregFVeFulIg6l5A+xXizioo0Q5EH8guiWXLlaO0TnmWFp
-1FoZ17xP/zzES5GHwxgX9ZyELs5U3h9TPT9807yDryDxV6oOoaSP7+kDwM/I4KpZ
-UyduNbtY1kBUd+2/3QcGma34OAhP8dLyPeIPGO6YUiNJEr5b4/O3S2MZazpcXNHF
-y1Y8c1zrDf4ci/8UJRe76UumAI2LvU66ba2FX31rilKVpcg1sMjK/NqrOwUuvufb
-RjnW0zdX4bGENUga7cJUVvSDyHoOxaAskFftQveojS7QtCIcjUZLACWaubWwSwZV
-txGl7wU4tZab1xDXJjRML++SAPB32AC60tss0dl2BsSAIxyAAsxFLlCr5zOOPvhF
-znqABebalCevJUE4W+GhHuRSclnjdWrDZv9V7gIOW//UB4kmBPChfQirEMQYrQLi
-4U8cyzNiI79iL7Oqq4qBhUMGQ6jOc08gVrBmj/s9BojJuHuO8NUdurRXD/kaI1RP
-XCM/GB23+lO0x8AuamVUs9gBUE65im7O1g3HMuqIaw7n51mNCx0=
-=NqR3
+iQIzBAEBCgAdFiEEVeqTDR2e+3prLrkGkDHZFOM9388FAmQubCsACgkQkDHZFOM9
+38+aaBAAz3X36lHO+MY9onrucfeU0XKt2FB5F+mWuwGKPY5Zec7ougEFk4TwG2Ee
+wQjHO51LS8T/ZXX4auieWSTVc/1jV5VGdifl3IuwTs+Tg9g32Mxi9LfeQGDT32aZ
+Uq6w1VQlGpEOi3MSt1WECmi+6kDs/j5v0D7G21Icok8/dKMvoKtgKixOn4yVQWtL
+3USU8s0j2ERSjDTtcwSiQ3feNbicBADz8OGqEHOxv/b6ZJR8GUTSyqMTo7bAqI1Y
+0vMbGZ1KRIGQQs2ILAgl4iuG4XRL3Get33GvjVj2LNZrUlfQlqwcYRl21zk+Stx2
+MIbqXUnbACnJf7RNrNFpOp9Fk2WgP3fe3FNI9WpZeJn0wJIxxjiRzkQBRCbjrT9f
+Y2vmJRixZw+AloCQuQxv4utFaR3nCkgynhosq0rnNN2BQckXfChwQhdumTWZ2OpC
+z58tWF/cDEDooZQYOpR5Dg+HUib0Fm8u+NedtUMcR6i5yIdT2f+9ssIdrejqlccr
+7Ke2cu+jOfuJ3WpbGsL30PL23zgtHa1iCR8aOoJMiuOWTfttKdo/tGJiMVZIstdS
+jwkfkTDLhhY7wX2UxTUFoBqEOFfhyatRe4+BFU2uQwmYnqD5HnBUrgxSJlppxMj3
+03ITp2y2dtDqukx9ojwGP5lrKHQ5oB/GHVflw/jUVjmnkJVwq8s=
+=hLrj
 -----END PGP SIGNATURE-----

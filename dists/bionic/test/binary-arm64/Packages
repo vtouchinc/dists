@@ -52,10 +52,10 @@ Name : <jhna@vtouch.io>
 Priority: optional
 Section: utils
 Filename: pool/test/v/vtcore-dev/vtcore-dev_1.0.0_arm64.deb
-Size: 2636248
-SHA256: 8c4b337da17ac5002955ffbce8e5da6ea7d5818b7c776c31e32c62803b4508df
-SHA1: 323b51a36285dd8fc66ce968a55f0c76bef12af8
-MD5sum: 540d6bb7632211b14b49f4701851300b
+Size: 2636482
+SHA256: 33dbf1ac5031d6a80bd48b4c8d1692e92c33ac45f86fd5d59b67710ea40fc940
+SHA1: 766dac82349f9f55a424ec69ddf0942247540bf6
+MD5sum: 9367e8ec38423ccc289d329e0369b144
 Description: VTouch wrapper library
 Homepage: https://vtouch.io
 Architecture: arm64
